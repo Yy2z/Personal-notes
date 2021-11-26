@@ -23,7 +23,13 @@
 
 ![image-20211124214047891](C:\Users\Y_rachel\AppData\Roaming\Typora\typora-user-images\image-20211124214047891.png)
 
+- el-挂载点
+
+  el是用来设置Vue实例挂载（管理）的元素
+
 - **data** 用于定义属性，实例中有三个属性分别为：site、url、alexa。
+
+  Vue中用到的数据定义在data中
 
 - **methods** 用于定义的函数，可以通过 return 来返回函数值。
 
@@ -51,4 +57,24 @@
   
 
 - Vue 构造器中有一个el 参数，它是 DOM 元素中的 id
+
+## v-text
+
+v-text指令的作用是：设置标签的内容
+
+默认写法会替换全部内容，使用差值表达式{{}}可以替换指定内容
+
+## v-html
+
+v-html指令的作用是：设置元素的innerHTML
+
+内容中有html结构会被解析为标签
+
+v-text指令无论内容是什么，只会解析为文本
+
+解析文本使用v-text,需要解析html结构是使用v-html
+
+## v-on
+
+v-on指令的作用是：为元素绑定事件
 
