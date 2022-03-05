@@ -941,7 +941,9 @@ export default({ command, mode }) => {
 
 ![image-20220301104611599](C:\Users\Y_rachel\AppData\Roaming\Typora\typora-user-images\image-20220301104611599.png)
 
+#### 4.3.4 关于页面
 
+![image-20220305211046375](C:\Users\Y_rachel\AppData\Roaming\Typora\typora-user-images\image-20220305211046375.png)
 
 ### 4.3 系统测试UERY
 
