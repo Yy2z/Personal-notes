@@ -278,3 +278,15 @@ int main()
 
 ![image-20220305112328101](C:\Users\Y_rachel\AppData\Roaming\Typora\typora-user-images\image-20220305112328101.png)
 
+![image-20220306151225138](C:\Users\Y_rachel\AppData\Roaming\Typora\typora-user-images\image-20220306151225138.png)
+
+![image-20220306151615755](C:\Users\Y_rachel\AppData\Roaming\Typora\typora-user-images\image-20220306151615755.png)
+
+![image-20220306152308939](C:\Users\Y_rachel\AppData\Roaming\Typora\typora-user-images\image-20220306152308939.png)
+
+![image-20220306152323154](C:\Users\Y_rachel\AppData\Roaming\Typora\typora-user-images\image-20220306152323154.png)
+
+![image-20220306152340001](C:\Users\Y_rachel\AppData\Roaming\Typora\typora-user-images\image-20220306152340001.png)
+
+![image-20220306153046080](C:\Users\Y_rachel\AppData\Roaming\Typora\typora-user-images\image-20220306153046080.png)
+
