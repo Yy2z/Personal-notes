@@ -1,0 +1,31 @@
+{
+  "name": "shotCat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "deploy": "bash deploy.sh"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vssue/api-github-v3": "^1.0.0",
+    "@vssue/vuepress-plugin-vssue": "^1.0.2",
+    "element-ui": "^2.10.1",
+    "highlight.js": "^9.15.8",
+    "inputmask": "^3.3.11",
+    "less-loader": "^5.0.0",
+    "vue": "^2.5.2",
+    "vue-highlight.js": "^2.2.0"
+  },
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.0.0-rc.1",
+    "@vuepress/plugin-medium-zoom": "^1.0.0-rc.1",
+    "less": "^3.9.0",
+    "vuepress": "^1.0.2"
+  }
+}
